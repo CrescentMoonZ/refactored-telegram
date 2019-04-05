@@ -1,0 +1,30 @@
+{
+  "name": "project_fun",
+  "version": "1.0.0",
+  "description": "FUN =)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "CrescentMoonZ",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.3.1",
+    "cheerio": "^1.0.0-rc.2",
+    "commando": "0.0.2",
+    "delay": "^4.1.0",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "eslint": "^5.14.1",
+    "ffmpeg": "0.0.4",
+    "ibot": "^0.8.0",
+    "moment": "^2.24.0",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "snekfetch": "^4.0.4",
+    "tls": "0.0.1",
+    "utils": "^0.3.1",
+    "ytdl-core": "^0.29.1"
+  }
+}
